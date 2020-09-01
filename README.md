@@ -9,5 +9,5 @@ This repo contains all my work for this specialization. All the code and quizzes
 ## Programming Assignments
 
 - [Course 1: Going Cloud-Native](Course-1)
-  - [Week 1 - Practice Quiz 1 - AWS Infrastructure](Course-1/W1-Introduction-to-Dynamic-Web-Content/Practice-Quiz.md)
-  - [Week 1 - Practice Quiz 2 - Compute](Course-1/W1-Introduction-to-Dynamic-Web-Content/Practice-Quiz2.md)
+  - [Week 1 - Practice Quiz 1 - AWS Infrastructure](Course-1/W1-introduction-infrastructure-and-compute/Practice-Quiz.md)
+  - [Week 1 - Practice Quiz 2 - Compute](Course-1/W1-introduction-infrastructure-and-compute/Practice-Quiz2.md)
